@@ -1,0 +1,36 @@
+XForce Open 1.0
+
+Copyright and License Grant:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated files (the "Project"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Project, subject to the following conditions.
+
+1. Use:
+You may use this Project for personal, educational, research, or commercial purposes without restriction.
+
+2. Modification:
+You may freely modify, delete, replace, or add files to the Project. Derivative works are permitted.
+
+3. Distribution:
+You may distribute copies of the Project, or modified versions, under the same license terms. Recipients must be informed that this Project is licensed under the XForce Open License.
+
+4. Sublicensing:
+You may sublicense the Project under the same terms. Recipients of sublicensed copies must receive the same freedoms.
+
+5. Patents:
+The author grants no express or implied patent rights. If you contribute to the Project, you agree to grant the same rights to all users of your contributions.
+
+6. Contribution:
+Contributions to this Project are licensed under the XForce Open License unless otherwise explicitly stated.
+
+7. Attribution:
+You may retain or remove the author’s attribution in redistributed copies, but it is encouraged to preserve acknowledgment where possible.
+
+Disclaimer:
+This Project is provided "as-is", without warranty of any kind, express or implied. The author(s) are not liable for any damages, including but not limited to loss of data, loss of profits, or any other damages arising from use of this Project.
+
+Additional Terms:
+- You may combine this Project with other open-source or proprietary software.
+- Redistribution of modified versions must include this license unless otherwise explicitly permitted.
+- You may freely delete, modify, or add files within your copy of the Project.
+
+Summary:
+You can do almost anything with this Project: use it, modify it, redistribute it, or include it in other projects. All responsibility for its use lies with you.
