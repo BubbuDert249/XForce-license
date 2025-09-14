@@ -1,0 +1,30 @@
+XForce Proprietary 1.0
+
+Copyright:
+All rights reserved. The Project and all its files, assets, and components are the exclusive intellectual property of the author(s).
+
+Grant of Use:
+You are granted a limited, non-exclusive, non-transferable license to use the Project as-is for personal or internal purposes only. This license does NOT grant you any rights to copy, modify, distribute, or sublicense the Project.
+
+Restrictions:
+1. You may NOT redistribute, sublicense, or sell the Project, in whole or in part, to any third party.
+2. You may NOT modify, reverse engineer, decompile, or disassemble the Project.
+3. You may NOT use any of the Project's assets, including images, code, text, or other resources, in other projects without explicit written permission.
+4. You may NOT claim ownership of the Project or any part of it.
+
+Contributions:
+Any modifications, improvements, or contributions made to the Project without explicit written permission remain the property of the author(s) and are not licensed to you.
+
+Disclaimer:
+The Project is provided "as-is" without warranty of any kind. The author(s) are not liable for any damages or losses arising from the use or misuse of the Project, including, but not limited to, loss of data, business interruptions, or software failures.
+
+Enforcement:
+Violation of any term in this license may result in legal action. The author(s) reserve the right to revoke your license at any time if you breach the terms.
+
+Additional Terms:
+- You may view and learn from the Project for educational purposes only.
+- Any sharing of the Project in any form (online or offline) is strictly prohibited.
+- Explicit permission from the author(s) is required for any use outside these terms.
+
+Summary:
+Use this Project as provided, without modification or redistribution. Any other use is prohibited and may lead to legal action.
